@@ -1,5 +1,30 @@
-header {
-    background-color: black;
-    color: rgb(173, 222, 173);
-    text-align: center;
-    }
+h1 {
+    background-color: #152716; /* Dark background color */
+    color: #fff; /* Light text color */
+    text-align: center; /* Center the text in the header. */
+  }
+H2
+  {
+    background-color: #152716; /* Dark background color */
+    color: #fff; /* Light text color */
+    text-align: center; /* Center the text in the header. */
+  }
+body {
+    background-color: #cbc7c7; /* Give the main a light grey background color */
+    color:rgb(0, 0, 0);
+    background-image: url('record.png'); /* CSS background image */
+    background-repeat: repeat; /* CSS background-repeat */
+    margin: 0; /* Give the body a margin of 0 */
+
+  }
+p
+{background-color:#fff; /* Dark background color */
+    color: #152716; /* Light text color */}
+main{
+    padding: 1em; /* Give the main padding of 1em */
+}
+ul {
+    background-color:#fff;
+    color: #152716; 
+
+}
